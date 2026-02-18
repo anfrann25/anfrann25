@@ -45,5 +45,6 @@ Currently working on privacy-preserving ML, Federated Learning, and efficient al
 <h2>📫 Contact</h2>
 <ul>
   <li>GitHub: <a href="https://github.com/anfrann25">github.com/anfrann25</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/andreas-frantzis/">linkedin.com/in/andreas-frantzis/</a></li>
   <!-- Βάλε LinkedIn αν έχεις -->
 </ul>
